@@ -1,9 +1,9 @@
 <h1 align="center">Servus, ich bin Mathis</h1>
 <h3 align="center">Hobby-Softwareentwickler</h3>
 
-Ich setze immer wieder gerne kleine Projekte mit Python, Linux oder Raspberry Pi um, gelegentlich auch mit dem Arduino.
-Besonders die Themen Automatisierung und Spieleprogrammierung begeistern mich.
-Hier habe ich einige meiner Projekte hochgeladen, die ich kürzlich erstellt habe.
+Hi, ich programmiere sehr gerne in meiner Freizeit, vor allem in Python, und habe auch schon einige Projekte umgesetzen können.
+Außerdem gefällt es mir auch sehr, wenn ich mit dem Raspberry Pi arbeite, das Thema Linux allgemein finde ich sehr spannend.
+Einige dieser Projekte habe ich hier hochgeladen - schaut sie euch gerne an!
 
 
 

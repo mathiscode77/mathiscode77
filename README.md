@@ -1,8 +1,8 @@
 <h1 align="center">Servus, ich bin Mathis</h1>
 <h3 align="center">Hobby-Softwareentwickler</h3>
 
-Hi, ich programmiere sehr gerne in meiner Freizeit, vor allem in Python, und habe auch schon einige Projekte umgesetzen können.
-Außerdem gefällt es mir auch sehr, wenn ich mit dem Raspberry Pi arbeite, das Thema Linux allgemein finde ich sehr spannend.
+Hi, ich programmiere in meiner Freizeit, vor allem in Python, und habe auch schon einige Projekte umsetzen können.
+Außerdem arbeite ich auch gerne mit dem Raspberry Pi, das Thema Linux allgemein interessiert mich sehr.
 Einige dieser Projekte habe ich hier hochgeladen - schaut sie euch gerne an!
 
 
